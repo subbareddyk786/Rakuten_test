@@ -19,3 +19,7 @@ In the fiscal year 2024-25, New India Assurance maintained its position as the l
 The company has consistently received high ratings from major credit agencies, highlighting its financial strength. It holds a 'CRISIL AAA/Stable' rating, the highest possible credit rating, indicating a strong capacity to meet its financial obligations. It also has a 'B++ (Good)' Financial Strength Rating from AM Best.
 
 The Insurance Regulatory and Development Authority of India (IRDAI) has consistently identified New India Assurance as a Domestic Systemically Important Insurer (D-SII). This designation is reserved for insurers whose size, market importance, and domestic and global interconnectedness are so significant that their distress or failure could cause a major disruption to the domestic financial system.
+
+
+
+checking  branch 
